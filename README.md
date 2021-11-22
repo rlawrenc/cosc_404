@@ -3,7 +3,7 @@
 ## Instructor
 Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Classroom Schedule:** Wednesday/Friday, 12:30 pm - 2:00 pm<br>
-**Mode of Delivery:** In-person at Library 312
+**Mode of Delivery:** In-person at Library 312<br>
 **Office Hours:**	Wednesdays 2 to 4 p.m. or by an appointment<br>
 **Office Location:** ASC 349<br>
 **Calendar Course Description, from the UBCO Calendar:** http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC
@@ -65,36 +65,40 @@ TBD
 
 |   Date | Topic  | Reading and Resources |
 |------------|------|-----------|
-| Sept. 9 (R) | [**First day of classes.  Introduction to course/databases**](lectures/lecture1) | [SQL for Web Nerds: SQL Introduction](http://philip.greenspun.com/sql/introduction.html) |
-| Sept. 14-16 | [Relational Model - Schemas, Keys, Constraints, Integrity](lectures/lecture2) |  |
-| Sept. 21 | [Relational Algebra - Select, Project, Set Ops, Outer Joins](lectures/lecture3) | [Online Relational Algebra Tool](http://dbis-uibk.github.io/relax/), [WorksOn Data Set](https://gist.github.com/rlawrenc/5a7eb3f69cbea033c04c3cdf680a2e39), [Bank Data Set](https://gist.github.com/rlawrenc/51721bd35f05ce3ef7391ff826f8f81a) |
-| Sept. 23–28 | [SQL DDL – Create table/index, Insert/Delete/Update](lectures/lecture4) | [Linux Shell Intro](https://drive.google.com/open?id=1ij785M5nfCkfsiYbCgXc5fmuRq790mJJv08VYJ1bE4w) |
-| Oct. 5 | [SQL - Queries, LIKE operator, Set Operations, Order By](lectures/lecture5) | [SQL for Web Nerds: SQL Queries](http://philip.greenspun.com/sql/queries.html) |
-| Oct. 7 | [SQL - Group By, Aggregate Functions](lectures/lecture6), SQL - Subqueries, Outer joins](lectures/lecture6)| [SQL for Web Nerds: SQL Complex Queries](http://philip.greenspun.com/sql/complex-queries.html) |
-| Oct. 12 | [Database Design – General Approach](lectures/lecture7)| |
-| Oct. 14 | [ER and UML Modeling, ER and UML Modeling examples and questions](lectures/lecture8)| |
-| Oct. 19 | **Midterm Exam #1 In-Class** | |
-| Oct. 21 | [EER Design - Specialization, Generalization, Aggregation<br>ER/EER Mapping to Relational model](lectures/lecture9)
-| Oct. 26 | [Database Programming using Java/JDBC](lectures/lecture10) | [Sample Java Code](lectures/lecture10/code), [JDBC Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/index.html)  |
-| Oct. 28 | [Database Programming using Python and R](lectures/lecture11) | [Sample Python Code](lectures/lecture11/code), [SQL Server and pyodbc](https://docs.microsoft.com/en-us/sql/connect/python/pyodbc/python-sql-driver-pyodbc), [pyodbc](https://github.com/mkleehammer/pyodbc/wiki)<br> [pyodbc Getting Started](https://github.com/mkleehammer/pyodbc/wiki/Getting-started), [Python Database API](https://www.python.org/dev/peps/pep-0249), [Python sqlite3](https://docs.python.org/3/library/sqlite3.html)  |
-| Nov. 2 | [Database Web Programming – Web servers, JSP/PHP](lectures/lecture12) | [Sample JSP/PHP Code](lectures/lecture12/code)<br> [Comic - Why validation is important](http://xkcd.com/327/) |
-| Nov. 4 | [Advanced SQL DDL – Triggers and Views](lectures/lecture13) | [SQL for Web Nerds: SQL Triggers](http://philip.greenspun.com/sql/triggers.html) |
-| Nov. 8-12 | **No class for Term 1 midterm break** | |
-| Nov. 16 | **Midterm Exam #2 In-Class** | Student Consent: https://ubc.ca1.qualtrics.com/jfe/form/SV_1YtWwaxpaX7sx1A<br> Instructor and Teaching Assistant Consent: https://ubc.ca1.qualtrics.com/jfe/form/SV_6yxChQZI2lfDx8a<br> Student Survey: https://ubc.ca1.qualtrics.com/jfe/form/SV_86W8svTSmCAFDrU<br> Instructor and Teaching Assistant Survey: https://ubc.ca1.qualtrics.com/jfe/form/SV_3l7hy3uGUjJ5WwC|
-| Nov. 18 | [Advanced SQL – Security, Transactions, Recursion](lectures/lecture14) | [MySQL Recursive Query](http://www.mysqltutorial.org/mysql-recursive-cte/) |
-| Nov. 23 | [XML and XPath](lectures/lecture15) |  [Sample XML Code](lectures/lecture15/code), [Intro to XML/XML Reference](http://www.w3schools.com/xml/xml_whatis.asp)<br>[XMLSchema Reference](https://www.w3schools.com/xml/schema_intro.asp)<br>[XML Validator](https://www.freeformatter.com/xml-validator-xsd.html), [Test XPath](http://cosc304.ok.ubc.ca/rlawrenc/tomcat/xml/xmlquery.html) |
-| Nov. 25 | [JSON and NoSQL Databases](lectures/lecture16) | |
-| Nov. 30 | [Normalization and Design Verification](lectures/lecture17) | |
-| Dec. 2 | [Database hosting and data cleansing/wrangling](lectures/lecture18)<br>[Data warehousing and Data Mining](lectures/lecture19)<br>Preview of COSC 404 - Database System Implementation | [Sample D3 Code](lectures/lecture18/code)<br>[10 Rules for Data Storage](https://people.ok.ubc.ca/rlawrenc/teaching/304/Notes/refs/rulesfordatastorage.pdf) |
-| Dec. 7 | **Course Summary, Final Exam Review** | |
-| Dec. 15 | **Final Exam On-Line 2.5 hours, 8:30 am**|
+| January 12 (W) 	| First day of classes.  Introduction to course.  Database architecture. | |
+| January 14 (F)	| Storage: Accessing/Representing Data on Devices (SSD,RAID) using Records/Blocks | |
+| January 19 (W)	| Indexing I: Index Types, Primary Indexes, Multi-level Indexes, Secondary Indexes | |
+| January 21 (F)	| Indexing II: B-Trees (insertion, deletion), B+-Trees | |
+| January 26 (W)	| Indexing III: B+-Trees, R-Trees | |
+| January 28 (F)	| Indexing IV: Hash Indexes, SQL Indexing in Practice | |
+| February 2 (W)	| Query processing I: SQL/RA Review, Types of Operators, Iterators, One-pass Algorithms | |
+| February 4 (F)	| Query processing II: Nested-Loop Joins, External Sorting, Two-Pass Sorting Algorithms, Sort-Join, Sort-Merge-Join | |
+| February 9 (W)	| Query processing III: Hash Partitioning, Two-Pass Hash Algorithms, Hybrid Hash Join | |
+| February 11 (F)	| Query optimization I: Query Parsing/Translation, Relational Algebra Laws | |
+| February 16 (W)	| **Midterm exam #1** | |
+| February 18 (F)	| Query optimization II: Heuristic Optimization, Physical Query Plans | |
+| February 23 (W)	| No classes during Midterm Break. | |
+| February 25 (F)	| No classes during Midterm Break. | |
+| March 2 (W) 		| Query optimization III: Cost-based Query Optimization | |
+| March 4 (F) 		| Transaction processing I: ACID Properties, Schedules, Conflict Serializablity | |
+| March 9 (W)		| Transaction processing II: View Serializablity, Schedule Properties | |
+| March 11 (F)		| Concurrency control I: Two-Phase Locking (2PL), Multiple Granularity Locking, Deadlock Handling, Wait-for Graphs | |
+| March 16 (W)		| Concurrency control II: Timestamp Protocols, Validation Protocols, Multi-versioning, Snapshot isolation | |
+| March 18 (F)		| **Midterm exam #2** | |
+| March 23 (W)		| Concurrency control III: SQL Isolation Levels, Phantom Phenomenon, CC in systems | |
+| March 25 (F)		| Recovery I: Types of Failures, Log-Based Recovery | |
+| March 30 (W)		| Recovery II: Undo/Redo Logging | |
+| April 1 (F)		| Distribution I: Architectures, Semi-joins, Two-Phase Commit | |
+| April 6 (W)		| Distribution II: Fragmentation, Partitioning, Sharding | |
+| April 8 (F)		| Distribution III: Replication: Master-Master and Master-Slave, CAP Theorem<br>
+			 Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory | |
 
 
 ## Labs
 
 |  Lab  |  Date  |  Topic  |
 |----|------|-------|
-|  | September 7 – 11 |	**No Lab during First Week of Class** |
+|  		 | January 10 - 14 	| **No Lab during First Week of Class** |
 | [1](labs/lab1) | September 21 – 27 | Lab 1: Querying using Relational Algebra |
 | [2](labs/lab2) | September 28 – Oct. 4 | Lab 2: Creating tables using SQL and MySQL |
 | [3](labs/lab3) | October 5 - 13 | Lab 3: Writing SQL queries on a MySQL database |
