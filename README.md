@@ -89,8 +89,8 @@ TBD
 | March 25 (F)		| Recovery I: Types of Failures, Log-Based Recovery | |
 | March 30 (W)		| Recovery II: Undo/Redo Logging | |
 | April 1 (F)		| Distribution I: Architectures, Semi-joins, Two-Phase Commit | |
-| April 6 (W)		| Distribution II: Fragmentation, Partitioning, Sharding | |
-| April 8 (F)		| Distribution III: Replication: Master-Master and Master-Slave, CAP Theorem<br>
+| April 6 (W)		| Distribution II: Fragmentation, Partitioning | |
+| April 8 (F)		| Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>
 			 Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory | |
 
 
