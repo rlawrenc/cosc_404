@@ -110,7 +110,7 @@ TBD
 | [8](labs/lab8) | March 14 - 18 	| Lab 8: Transactions with Microsoft SQL Server |
 | [9](labs/lab9) | March 21 - 25 	| Lab 9: Cloud Data Analysis with Snowflake |
 | [10](labs/lab10) | March 28 - Apr. 1 	| Lab 10: Recovering from a Database Failure  |
-| [10](labs/lab11) | April 4 - 8 	| Lab 11: Scaling Databases with MySQL and MongoDB |
+| [11](labs/lab11) | April 4 - 8 	| Lab 11: Scaling Databases with MySQL and MongoDB |
 
 
 ## Final Examinations
