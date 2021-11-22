@@ -99,18 +99,18 @@ TBD
 |  Lab  |  Date  |  Topic  |
 |----|------|-------|
 |  		 | January 10 - 14 	| **No Lab during First Week of Class** |
-| [1](labs/lab1) | September 21 – 27 | Lab 1: Querying using Relational Algebra |
-| [2](labs/lab2) | September 28 – Oct. 4 | Lab 2: Creating tables using SQL and MySQL |
-| [3](labs/lab3) | October 5 - 13 | Lab 3: Writing SQL queries on a MySQL database |
-| [4](labs/lab4) | October 14 – 21 | Lab 4: Database Design using UML Modeling |
-| [5](labs/lab5) | October 22 – 26 |Lab 5: Converting UML Diagrams into the Relational Model |
-| [6](labs/lab6) | October 27 – Nov. 3 | Lab 6: Programming with Java/Python using MySQL and SQL Server |
-| [7](labs/lab7) | November 4 - 17 | Lab 7: Building a Database-enabled Web Site using JSP/PHP |
-| [*] | November 8 - 12 | Semester Break — No Labs |
-| [8](labs/lab8) | November 18 – 24 | Lab 8: Images (optional), Security (optional), and Transactions |
-| [9](labs/lab9) | November 24 – 29 | Lab 9: XML (optional), JSON (optional), Views, and Triggers |
-| [10](labs/lab10) | November 30 – Dec. 7 | Lab 10: Project Completion |
-|*|Lab 5, 7, 8, and  10 | are parts of the project and must be delivered in the group of 4|
+| [1](labs/lab1) | January 17 - 21 	| Lab 1: MySQL vs. PostgreSQL – Creating and Querying Data |
+| [2](labs/lab2) | January 24 - 28 	| Lab 2: MySQL vs. PostgreSQL – Indexing for Performance |
+| [3](labs/lab3) | Jan. 31 - Feb. 4 	| Lab 3: Implementing a Text Database and JDBC Driver |
+| [4](labs/lab4) | February 7 - 11 	| Lab 4: Query Processing with Iterators |
+| [5](labs/lab5) | February 14 - 18 	| Lab 5: Query Parsing with JavaCC |
+|  		 | February 21 - 25 	| Midterm Break — No Labs |
+| [6](labs/lab6) | Feb. 28 - Mar. 4 	| Lab 6: Storing JSON Documents: MongoDB and PostgreSQL |
+| [7](labs/lab7) | March 7 - 11 	| Lab 7: Map-Reduce using MongoDB |
+| [8](labs/lab8) | March 14 - 18 	| Lab 8: Transactions with Microsoft SQL Server |
+| [9](labs/lab9) | March 21 - 25 	| Lab 9: Cloud Data Analysis with Snowflake |
+| [10](labs/lab10) | March 28 - Apr. 1 	| Lab 10: Recovering from a Database Failure  |
+| [10](labs/lab11) | April 4 - 8 	| Lab 11: Scaling Databases with MySQL and MongoDB |
 
 
 ## Final Examinations
