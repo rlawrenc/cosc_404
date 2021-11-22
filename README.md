@@ -65,7 +65,7 @@ TBD
 
 |   Date | Topic  | Reading and Resources |
 |------------|------|-----------|
-| January 12&nbsp;(W) 	| First day of classes.  Introduction to course.  Database architecture. | |
+| January&nbsp;12&nbsp;(W) 	| First day of classes.  Introduction to course.  Database architecture. | |
 | January 14&nbsp;(F)	| Storage: Accessing/Representing Data on Devices (SSD,RAID) using Records/Blocks | |
 | January 19 (W)	| Indexing I: Index Types, Primary Indexes, Multi-level Indexes, Secondary Indexes | |
 | January 21 (F)	| Indexing II: B-Trees (insertion, deletion), B+-Trees | |
