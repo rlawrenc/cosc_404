@@ -77,7 +77,7 @@ TBD
 | February 11 (F)	| Query optimization I: Query Parsing/Translation, Relational Algebra Laws | |
 | February 16 (W)	| **Midterm exam #1** | |
 | February 18 (F)	| Query optimization II: Heuristic Optimization, Physical Query Plans | |
-| February 23 (W)	| No classes during Midterm Break. | |
+| February&nbsp;23&nbsp;(W)	| No classes during Midterm Break. | |
 | February 25 (F)	| No classes during Midterm Break. | |
 | March 2 (W) 		| Query optimization III: Cost-based Query Optimization | |
 | March 4 (F) 		| Transaction processing I: ACID Properties, Schedules, Conflict Serializablity | |
