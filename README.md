@@ -54,7 +54,7 @@ TBD
  - The course uses iClicker Cloud (free). [Setup instructions for iClicker Cloud Student Account](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/). [iClicker Cloud (REEF) Login](http://app.reef-education.com/)
 
 ## Expectations
- - Attend all classes and prepare before attending class. **Course is designed to allow online completion for students learning remotely.**
+ - Attend all classes and prepare before attending class. **Course allows online completion for students learning remotely.**
  - Review the material before the class time. **Expect to spend about five hours per week in out-of-class preparation.**
  - Learn the material in the course by completing all assignments. **No late assignments are accepted.**
  - Enjoy attending class activities and participate according to your personality.  Ask questions by posting on chat or raising your hand.
@@ -81,8 +81,8 @@ TBD
 | February 25 (F)	| No classes during Midterm Break. | 
 | March 2 (W) 		| Query optimization II: Heuristic Optimization, Physical Query Plans  | 
 | March 4 (F) 		| Query optimization III: Cost-based Query Optimization | 
-| March 9 (W) 		| Transaction processing I: ACID Properties, Schedules, Conflict Serializablity | 
-| March 11 (F)		| Transaction processing II: View Serializablity, Schedule Properties | 
+| March 9 (W) 		| Transaction processing I: ACID Properties, Schedules, Conflict Serializability | 
+| March 11 (F)		| Transaction processing II: View Serializability, Schedule Properties | 
 | March 16 (W)		| Concurrency control I: Two-Phase Locking (2PL), Multiple Granularity Locking, Deadlock Handling, Wait-for Graphs | 
 | March 18 (F)		| **Midterm exam #2** | 
 | March 23 (W)		| Concurrency control II: Timestamp Protocols, Validation Protocols, Multi-versioning, Snapshot isolation | 
