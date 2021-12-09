@@ -55,7 +55,7 @@ TBD
 
 ## Expectations
  - Attend all classes and prepare before attending class. 
- - Read the notes before the class time. **Expect to spend about five hours per week in out-of-class preparation.**
+ - Review the material before the class time. **Expect to spend about five hours per week in out-of-class preparation.**
  - Learn the material in the course by completing all assignments. **No late assignments are accepted.**
  - Enjoy attending class activities and participate according to your personality.  Ask questions by posting on chat or raising your hand.
  - Please actively participate in class discussions, questions, and problem solving exercises.
