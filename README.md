@@ -79,7 +79,7 @@ TBD
 | February 18 (F)	| **Midterm exam #1** | 
 | February&nbsp;23&nbsp;(W)	| No classes during Midterm Break. | 
 | February 25 (F)	| No classes during Midterm Break. | 
-| March 2 (W) 		| Query optimization II: Heuristic Optimization, Physical Query Plans,  | 
+| March 2 (W) 		| Query optimization II: Heuristic Optimization, Physical Query Plans  | 
 | March 4 (F) 		| Query optimization III: Cost-based Query Optimization | 
 | March 9 (W) 		| Transaction processing I: ACID Properties, Schedules, Conflict Serializablity | 
 | March 11 (F)		| Transaction processing II: View Serializablity, Schedule Properties | 
