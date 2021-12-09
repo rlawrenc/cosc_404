@@ -216,6 +216,6 @@ For more information:  https://security.ok.ubc.ca/safewalk/  or download the UBC
 
 ## Reference Material
 
-* [Data Structure Visualizations: B-tree, R-tree](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
-
+* [Data Structure Visualizations: B-tree, B+-tree](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
+* [Database Systems The Complete Book (Garcia-Molina, Ullman, and Widom)](http://www-db.stanford.edu/~ullman/dscb.html)
 
