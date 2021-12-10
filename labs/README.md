@@ -1,36 +1,31 @@
- Labs
-
-All labs are done online with assistance from teaching assistants and instructor during session hours. The best part of the course is developing with databases in the labs. Please follow the submission guidelines.
-
-**All labs must be done in groups. Labs 1, 2, 3, 4, 6, and 9 are done in pairs. Project labs 5, 7, 8, and 10 are done in groups of four.** No collaboration outside a group is allowed. The group must be setup on Canvas (contact TA/instructor) and only one submission per group is accepted.
-
-
 ## Labs
+
+All labs are done outside of scheduled class time. Assistance is available from teaching assistants and the instructor during session hours. The best part of the course is developing with databases in the labs. Please follow the submission guidelines.
+
+**All labs must be done in pairs.** No collaboration outside a group is allowed. The group must be setup on Canvas (contact TA/instructor) and only one submission per group is accepted.
 
 |  Lab  |  Date  |  Topic  |
 |----|------|-------|
-|  | September 7 – 11 |	**No Lab during First Week of Class** |
-| [1](lab1) | September 21 – 27 | Lab 1: Querying using Relational Algebra |
-| [2](lab2) | September 28 – Oct. 4 | Lab 2: Creating tables using SQL and MySQL |
-| [3](lab3) | October 5 - 13 | Lab 3: Writing SQL queries on a MySQL database |
-| [4](lab4) | October 14 – 21 | Lab 4: Database Design using UML Modeling |
-| [5](lab5) | October 22 – 26 |Lab 5: Converting UML Diagrams into the Relational Model |
-| [6](lab6) | October 27 – Nov. 3 | Lab 6: Programming with Java/Python using MySQL and SQL Server |
-| [7](lab7) | November 4 - 14 | Lab 7: Building a Database-enabled Web Site using JSP/PHP |
-| [*] | November 8 - 12 | Semester Break — No Labs |
-| [8](lab8) | November 18 – 24 | Lab 8: Images (optional), Security (optional), and Transactions |
-| [9](lab9) | November 24 – 29 | Lab 9: XML(optional), JSON(optional), Views, and Triggers |
-| [10](lab10) | November 30 – Dec. 7 | Lab 10: Project Completion |
-|*|Lab 5, 7, 8, and  10 | are parts of the project and must be delivered in the group of 4|
+|  		 | January 10 - 14 	| **No Lab during First Week of Class** |
+| [1](labs/lab1) | January 17 - 21 	| Lab 1: MySQL vs. PostgreSQL – Creating and Querying Data |
+| [2](labs/lab2) | January 24 - 28 	| Lab 2: MySQL vs. PostgreSQL – Indexing for Performance |
+| [3](labs/lab3) | Jan. 31 - Feb. 4 	| Lab 3: Implementing a Text Database and JDBC Driver |
+| [4](labs/lab4) | February 7 - 11 	| Lab 4: Query Processing with Iterators |
+| [5](labs/lab5) | February 14 - 18 	| Lab 5: Query Parsing with JavaCC |
+|  		 | February 21 - 25 	| Midterm Break — No Labs |
+| [6](labs/lab6) | Feb. 28 - Mar. 4 	| Lab 6: Storing JSON Documents: MongoDB and PostgreSQL |
+| [7](labs/lab7) | March 7 - 11 	| Lab 7: Map-Reduce using MongoDB |
+| [8](labs/lab8) | March 14 - 18 	| Lab 8: Transactions with Microsoft SQL Server |
+| [9](labs/lab9) | March 21 - 25 	| Lab 9: Cloud Data Analysis with Snowflake |
+| [10](labs/lab10) | March 28 - Apr. 1 	| Lab 10: Recovering from a Database Failure  |
+| [11](labs/lab11) | April 4 - 8 	| Lab 11: Scaling Databases with MySQL and MongoDB |
 
 
 ## Drop-in Session Hours
 | Day/Time |  TA/Instructor |
 |----------|----------------|
-| willmcfarland17@gmail.com (Office hours:   Wednesday 9:30am-10:30am, Thursday 9:30-10:30) | McFarland, Will  |
-| pradeepmahato007@gmail.com (Office hours:  Tuesday 4:00 pm-6:00 pm) | Mahato, Pradeep   |
-| tanjum@mail.ubc.ca (Office hours:  Friday 12:30 pm - 2:30 pm) | Anjum, Taif |
-| youry.khmelevsky@ubc.ca (Office hours: Tuesday and Thursday 2:00 pm – 2:30 pm) | Dr. Youry Khmelevsky |
+|TBD| |
+| Wed. 2 to 4 p.m. | Dr. Ramon Lawrence |
 
 ## Submission Guidelines for Assignments
 
