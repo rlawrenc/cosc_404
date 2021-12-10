@@ -24,7 +24,6 @@ All labs are done outside of scheduled class time. Assistance is available from 
 ## Drop-in Session Hours
 | Day/Time |  TA/Instructor |
 |----------|----------------|
-|TBD| |
 | Wed. 2 to 4 p.m. | Dr. Ramon Lawrence |
 
 ## Submission Guidelines for Assignments
