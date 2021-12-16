@@ -66,31 +66,31 @@ TBD
 |   Date | Topic  | 
 |------------|------|
 | January&nbsp;12&nbsp;(W) 	| [First day of classes.  Introduction to course.  Database architecture.](lectures/lecture1) | 
-| January 14&nbsp;(F)	| Storage I: Accessing/Representing Data on Devices (SSD,RAID) using Records/Blocks | 
-| January 19 (W)	| Storage II: File operations, buffer management, column vs row storage | 
-| January 21 (F)	| Indexing I: Index Types, Primary Indexes, Multi-level Indexes, Secondary Indexes | 
-| January 26 (W)	| Indexing II: B-Trees (insertion, deletion), B+-Trees | 
-| January 28 (F)	| Indexing III: B+-Trees, R-Trees | 
-| February 2 (W)	| Indexing IV: Hash Indexes, SQL Indexing in Practice | 
-| February 4 (F)	| Query processing I: SQL/RA Review, Types of Operators, Iterators, One-pass Algorithms | 
-| February 9 (W)	| Query processing II: Nested-Loop Joins, External Sorting, Two-Pass Sorting Algorithms, Sort-Join, Sort-Merge-Join | 
-| February 11 (F)	| Query processing III: Hash Partitioning, Two-Pass Hash Algorithms, Hybrid Hash Join | 
-| February 16 (W)	| Query optimization I: Query Parsing/Translation, Relational Algebra Laws | 
+| January 14&nbsp;(F)	| [Storage I: Accessing/Representing Data on Devices (SSD,RAID) using Records/Blocks](lectures/lecture2) | 
+| January 19 (W)	| [Storage II: File operations, buffer management, column vs row storage](lectures/lecture3) | 
+| January 21 (F)	| [Indexing I: Index Types, Primary Indexes, Multi-level Indexes, Secondary Indexes](lectures/lecture4) | 
+| January 26 (W)	| [Indexing II: B-Trees (insertion, deletion), B+-Trees](lectures/lecture5) | 
+| January 28 (F)	| [Indexing III: B+-Trees, R-Trees](lectures/lecture6) | 
+| February 2 (W)	| [Indexing IV: Hash Indexes, SQL Indexing in Practice](lectures/lecture7) | 
+| February 4 (F)	| [Query processing I: SQL/RA Review, Types of Operators, Iterators, One-pass Algorithms](lectures/lecture8) | 
+| February 9 (W)	| [Query processing II: Nested-Loop Joins, External Sorting, Two-Pass Sorting Algorithms, Sort-Join, Sort-Merge-Join](lectures/lecture9) | 
+| February 11 (F)	| [Query processing III: Hash Partitioning, Two-Pass Hash Algorithms, Hybrid Hash Join](lectures/lecture10) | 
+| February 16 (W)	| [Query optimization I: Query Parsing/Translation, Relational Algebra Laws](lectures/lecture11) | 
 | February 18 (F)	| **Midterm exam #1** | 
 | February&nbsp;23&nbsp;(W)	| No classes during Midterm Break. | 
 | February 25 (F)	| No classes during Midterm Break. | 
-| March 2 (W) 		| Query optimization II: Heuristic Optimization, Physical Query Plans  | 
-| March 4 (F) 		| Query optimization III: Cost-based Query Optimization | 
-| March 9 (W) 		| Transaction processing I: ACID Properties, Schedules, Conflict Serializability | 
-| March 11 (F)		| Transaction processing II: View Serializability, Schedule Properties | 
-| March 16 (W)		| Concurrency control I: Two-Phase Locking (2PL), Multiple Granularity Locking, Deadlock Handling, Wait-for Graphs | 
+| March 2 (W) 		| [Query optimization II: Heuristic Optimization, Physical Query Plans](lectures/lecture12)  | 
+| March 4 (F) 		| [Query optimization III: Cost-based Query Optimization](lectures/lecture13) | 
+| March 9 (W) 		| [Transaction processing I: ACID Properties, Schedules, Conflict Serializability](lectures/lecture14) | 
+| March 11 (F)		| [Transaction processing II: View Serializability, Schedule Properties](lectures/lecture15) | 
+| March 16 (W)		| [Concurrency control I: Two-Phase Locking (2PL), Multiple Granularity Locking, Deadlock Handling, Wait-for Graphs](lectures/lecture16) | 
 | March 18 (F)		| **Midterm exam #2** | 
-| March 23 (W)		| Concurrency control II: Timestamp Protocols, Validation Protocols, Multi-versioning, Snapshot isolation | 
-| March 25 (F)		| Concurrency control III: SQL Isolation Levels, Phantom Phenomenon, CC in systems | 
-| March 30 (W)		| Recovery: Types of Failures, Log-Based Recovery, Undo/Redo Logging | 
-| April 1 (F)		| Distribution I: Architectures, Semi-joins, Two-Phase Commit | 
-| April 6 (W)		| Distribution II: Fragmentation, Partitioning | 
-| April 8 (F)		| Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory | 
+| March 23 (W)		| [Concurrency control II: Timestamp Protocols, Validation Protocols, Multi-versioning, Snapshot isolation](lectures/lecture17) | 
+| March 25 (F)		| [Concurrency control III: SQL Isolation Levels, Phantom Phenomenon, CC in systems](lectures/lecture18) | 
+| March 30 (W)		| [Recovery: Types of Failures, Log-Based Recovery, Undo/Redo Logging](lectures/lecture19) | 
+| April 1 (F)		| [Distribution I: Architectures, Semi-joins, Two-Phase Commit](lectures/lecture20) | 
+| April 6 (W)		| [Distribution II: Fragmentation, Partitioning](lectures/lecture21) | 
+| April 8 (F)		| [Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory](lectures/lecture22) | 
 
 
 ## Labs
