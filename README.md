@@ -223,4 +223,8 @@ For more information:  https://security.ok.ubc.ca/safewalk/  or download the UBC
 
 * [Data Structure Visualizations: B-tree, B+-tree](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
 * [Database Systems The Complete Book (Garcia-Molina, Ullman, and Widom)](http://www-db.stanford.edu/~ullman/dscb.html)
-
+* [Berkeley DB Course CS186 (videos accessible)](https://cs186berkeley.net/)
+* [Berkeley Graduate DB Course CS286](https://cs286berkeley.net/#)
+* [Harvard Graduate DB Course CS165](http://daslab.seas.harvard.edu/classes/cs165/)
+* [MIT Graduate DB Course](http://dsg.csail.mit.edu/6.830/sched.php)
+* 
