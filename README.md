@@ -9,7 +9,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Calendar Course Description, from the UBCO Calendar:** http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC
 
 ## TAs
-David Ding
+David Ding<br>
 Devon MacNeil
 
 ## Course Description
