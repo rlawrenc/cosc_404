@@ -228,4 +228,3 @@ For more information:  https://security.ok.ubc.ca/safewalk/  or download the UBC
 * [Berkeley Graduate DB Course CS286](https://cs286berkeley.net/#)
 * [Harvard Graduate DB Course CS165](http://daslab.seas.harvard.edu/classes/cs165/)
 * [MIT Graduate DB Course](http://dsg.csail.mit.edu/6.830/sched.php)
-* 
