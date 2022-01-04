@@ -2,7 +2,7 @@
 
 ## Instructor
 Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
-**Classroom Schedule:** Wednesday/Friday, 12:30 pm - 2:00 pm<br>
+**Live Classroom Schedule:** Wednesday/Friday, 12:30 pm - 2:00 pm<br>
 **Mode of Delivery:** **Online on Zoom** until restrictions lifted then potentially in-person at Library 312<br>
 **Office Hours:**	Wednesdays 2 to 4 p.m. or by an appointment<br>
 **Office Location:** ASC 349<br>
