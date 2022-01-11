@@ -4,7 +4,7 @@ All labs are done outside of scheduled class time. Assistance is available from 
 
 **All labs must be done in pairs.** No collaboration outside a group is allowed. The group must be setup on Canvas (contact TA/instructor) and only one submission per group is accepted. 
 
-## Setup
+### Setup
 
 The labs use Java, Docker, and GitHub. Follow the [setup and installation instructions](https://github.com/rlawrenc/cosc_404/tree/main/labs/setup) to get your computer setup for the labs.
 
