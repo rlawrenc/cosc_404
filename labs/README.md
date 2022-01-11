@@ -7,7 +7,7 @@ All labs are done outside of scheduled class time. Assistance is available from 
 |  Lab  |  Date  |  Topic  |
 |----|------|-------|
 |  		 | January 10 - 14 	| **No Lab during First Week of Class** |
-| [1](labs/lab1) | January 17 - 21 	| Lab 1: MySQL vs. PostgreSQL – Creating and Querying Data |
+| [1](https://github.com/cosc-404-2021/lab1) | January 17 - 21 	| Lab 1: MySQL vs. PostgreSQL – Creating and Querying Data |
 | [2](labs/lab2) | January 24 - 28 	| Lab 2: MySQL vs. PostgreSQL – Indexing for Performance |
 | [3](labs/lab3) | Jan. 31 - Feb. 4 	| Lab 3: Implementing a Text Database and JDBC Driver |
 | [4](labs/lab4) | February 7 - 11 	| Lab 4: Query Processing with Iterators |
