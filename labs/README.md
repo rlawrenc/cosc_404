@@ -2,7 +2,7 @@
 
 All labs are done outside of scheduled class time. Assistance is available from teaching assistants and the instructor during session hours. The best part of the course is developing with databases in the labs. Please follow the submission guidelines.
 
-**All labs must be done in pairs.** No collaboration outside a group is allowed. The group must be setup on Canvas (contact TA/instructor) and only one submission per group is accepted.
+**All labs must be done in pairs.** No collaboration outside a group is allowed. The group must be setup on Canvas (contact TA/instructor) and only one submission per group is accepted. 
 
 |  Lab  |  Date  |  Topic  |
 |----|------|-------|
@@ -25,13 +25,10 @@ All labs are done outside of scheduled class time. Assistance is available from 
 | Day/Time |  TA/Instructor |
 |----------|----------------|
 | Wed. 2 to 4 p.m. | Dr. Ramon Lawrence |
+| Thurs. 2 to 4 p.m. | David Ding |
+| Fri. 2 to 4 p.m. | Devon MacNeil |
 
 ## Submission Guidelines for Assignments
 
 ### Assignment Submission Rules
-All assignments will be collected and marked using Canvas unless otherwise noted.
-Although you are able to develop your code on any environment, for marking purposes your final result must compile and run on the course server.
-
-### How to Electronically Submit Your Assignments
-When electronically submitting multiple code files (> 5 files), please zip the directory before submitting.
-Note that you can resubmit an assignment, and the new submission overwrites the old submission and receives a new timestamp.
+All assignments will be collected and marked using Canvas unless otherwise noted. Labs are released on GitHub classroom. Make sure to commit and push your lab to GitHub and then submit the URL of your repository on Canvas.
