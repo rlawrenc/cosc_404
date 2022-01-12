@@ -101,16 +101,16 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 |  		 | January 10 - 14 	| **No Lab during First Week of Class** |
 | [1](https://github.com/cosc-404-2021/lab1) | January 17 - 21 	| Lab 1: MySQL vs. PostgreSQL – Creating and Querying Data |
 | [2](https://github.com/cosc-404-2021/lab2) | January 24 - 28 	| Lab 2: MySQL vs. PostgreSQL – Indexing for Performance |
-| [3](labs/lab3) | Jan. 31 - Feb. 4 	| Lab 3: Implementing a Text Database and JDBC Driver |
-| [4](labs/lab4) | February 7 - 11 	| Lab 4: Query Processing with Iterators |
-| [5](labs/lab5) | February 14 - 18 	| Lab 5: Query Parsing with JavaCC |
+| [3](https://github.com/cosc-404-2021/lab3) | Jan. 31 - Feb. 4 	| Lab 3: Implementing a Text Database and JDBC Driver |
+| [4](https://github.com/cosc-404-2021/lab4) | February 7 - 11 	| Lab 4: Query Processing with Iterators |
+| [5](https://github.com/cosc-404-2021/lab5) | February 14 - 18 	| Lab 5: Query Parsing with JavaCC |
 |  		 | February 21 - 25 	| Midterm Break — No Labs |
-| [6](labs/lab6) | Feb. 28 - Mar. 4 	| Lab 6: Storing JSON Documents: MongoDB and PostgreSQL |
-| [7](labs/lab7) | March 7 - 11 	| Lab 7: Map-Reduce using MongoDB |
-| [8](labs/lab8) | March 14 - 18 	| Lab 8: Transactions with Microsoft SQL Server |
-| [9](labs/lab9) | March 21 - 25 	| Lab 9: Cloud Data Analysis with Snowflake |
-| [10](labs/lab10) | March 28 - Apr. 1 	| Lab 10: Recovering from a Database Failure  |
-| [11](labs/lab11) | April 4 - 8 	| Lab 11: Scaling Databases with MySQL and MongoDB |
+| [6](https://github.com/cosc-404-2021/lab6) | Feb. 28 - Mar. 4 	| Lab 6: Storing JSON Documents: MongoDB and PostgreSQL |
+| [7](https://github.com/cosc-404-2021/lab7) | March 7 - 11 	| Lab 7: Map-Reduce using MongoDB |
+| [8](https://github.com/cosc-404-2021/lab8) | March 14 - 18 	| Lab 8: Transactions with Microsoft SQL Server |
+| [9](https://github.com/cosc-404-2021/lab9) | March 21 - 25 	| Lab 9: Cloud Data Analysis with Snowflake |
+| [10](https://github.com/cosc-404-2021/lab10) | March 28 - Apr. 1 	| Lab 10: Recovering from a Database Failure  |
+| [11](https://github.com/cosc-404-2021/lab11) | April 4 - 8 	| Lab 11: Scaling Databases with MySQL and MongoDB |
 
 
 ## Potential Restrictions to International Students’ Online Learning Experiences
