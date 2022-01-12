@@ -14,7 +14,7 @@ A JDK of version 11 or above is required with JDK 17 recommended.
 ### Steps
 
 1) [Download OpenJDK](https://jdk.java.net/17/)
-2) Unzip folder and setup environment variables. ([Windows instructions](https://java.tutorials24x7.com/blog/how-to-install-openjdk-17-on-windows))
+2) Unzip folder and setup environment variables. ([Windows instructions](https://java.tutorials24x7.com/blog/how-to-install-openjdk-17-on-windows), [MacOS instructions](https://java.tutorials24x7.com/blog/how-to-install-openjdk-17-on-mac))
 
 ## Installing VSCode
 
