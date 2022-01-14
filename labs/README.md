@@ -2,7 +2,7 @@
 
 All labs are done outside of scheduled class time. Assistance is available from teaching assistants and the instructor during session hours. The best part of the course is developing with databases in the labs. Please follow the submission guidelines.
 
-**All labs must be done in pairs.** No collaboration outside a group is allowed. The group must be setup on Canvas and each lab started through [GitHub Classroom for COSC 404](https://classroom.github.com/classrooms/97315492-cosc-404-2021). Only one submission per group is accepted. 
+**All labs must be done in pairs.** No collaboration outside a group is allowed. The group must be setup on Canvas and each lab started through GitHub Classroom. GitHub Classroom links for each assignment are in Canvas. Only one submission per group is accepted. 
 
 ### Setup
 
