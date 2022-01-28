@@ -223,6 +223,7 @@ For more information:  https://security.ok.ubc.ca/safewalk/  or download the UBC
 ## Reference Material
 
 * [Data Structure Visualizations: B-tree, B+-tree](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
+* [2-3 Tree Visualization](https://people.ksp.sk/~kuko/gnarley-trees/23tree.html)
 * [Database Systems The Complete Book (Garcia-Molina, Ullman, and Widom)](http://www-db.stanford.edu/~ullman/dscb.html)
 * [Berkeley DB Course CS186 (videos accessible)](https://cs186berkeley.net/)
 * [Berkeley Graduate DB Course CS286](https://cs286berkeley.net/#)
