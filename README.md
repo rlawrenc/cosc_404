@@ -3,7 +3,7 @@
 ## Instructor
 Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Live Classroom Schedule:** Wednesday/Friday, 12:30 pm - 2:00 pm<br>
-**Mode of Delivery:** **Online on Zoom** until restrictions lifted then potentially in-person at Library 312<br>
+**Mode of Delivery:** LIB 31 and live-stream on Zoom<br>
 **Office Hours:**	Wednesdays 2 to 4 p.m. or by an appointment<br>
 **Office Location:** ASC 349<br>
 **Calendar Course Description, from the UBCO Calendar:** http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC
@@ -47,7 +47,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 | Project | 15% | Research paper and presentation |
 | Midterm #1 | 15% | February 18th in class | 
 | Midterm #2 | 15% | March 18th in class | 
-| Final Exam | 35% | Cumulative, two and half hours, TBD |
+| Final Exam | 35% | Cumulative, two and half hours, **April 22 at 12 p.m. in ASC 140** |
 
 ## Textbook and Reference Material
  - All notes are online.
