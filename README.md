@@ -1,4 +1,4 @@
-# COSC 404 - Database System Implementation - Winter T2 2021
+# COSC 404 - Database System Implementation - Jan 2022
 
 ## Instructor
 Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
