@@ -36,7 +36,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 | Assignments | 25% | Weekly assignments |
 | Midterm #1 | 15% | February 18th in class | 
 | Midterm #2 | 15% | March 18th in class | 
-| Final Exam | 35% | Cumulative, two and half hours, **April 22 at 12 p.m. in ASC 140** |
+| Final Exam | 35% | Cumulative, two and half hours |
 
 **A student must receive a combined grade of at least 50% on the exams (midterms and final) to pass the course.  Otherwise, the student receives a maximum overall grade of 45.**
 
