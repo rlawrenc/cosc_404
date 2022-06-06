@@ -78,9 +78,10 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 | February 7 (T)	| [Query processing II: Nested-Loop Joins, External Sorting, Two-Pass Sorting Algorithms, Sort-Join, Sort-Merge-Join](topics/8_query_processing) | 
 | February 9 (TH)	| [Query processing III: Hash Partitioning, Two-Pass Hash Algorithms, Hybrid Hash Join](topics/8_query_processing) | 
 | February 14 (T)	| [Query optimization I: Query Parsing/Translation, Relational Algebra Laws](topics/9_query_optimization) | 
-| February 16 (TH)	| **Midterm exam #1** | 
-| February&nbsp;21&nbsp;(W)	| No classes during Midterm Break. | 
-| February 23 (F)	| No classes during Midterm Break. | 
+| February 16 (TH)	| **No class** | 
+| February&nbsp;21&nbsp;(T)	| No classes during Midterm Break. | 
+| February 23 (TH)	| No classes during Midterm Break. | 
+| February 28 (T)	| **Midterm exam #1** | 
 | March 2 (TH) 		| [Query optimization II: Heuristic Optimization, Physical Query Plans](topics/9_query_optimization)  | 
 | March 7 (T) 		| [Query optimization III: Cost-based Query Optimization](topics/9_query_optimization) | 
 | March 9 (TH) 		| [Transaction processing I: ACID Properties, Schedules, Conflict Serializability](topics/10_transactions) | 
