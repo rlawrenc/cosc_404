@@ -94,7 +94,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 | April 4 (T)		| [Distribution I: Architectures, Semi-joins, Two-Phase Commit](topics/13_distribution) | 
 | April 6 (TH)		| [Distribution II: Fragmentation, Partitioning](topics/13_distribution) | 
 | April 11 (T)		| [Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory](topics/14_architectures) | 
-| April 13 (TH)		| Course Review | 
+| April 13 (TH)		| **Course Review** | 
 
 ## Labs
 
@@ -113,7 +113,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 | [9](https://github.com/cosc-404-2021/lab9) | March 20 - 24 	| Lab 9: Cloud Data Analysis with Snowflake |
 | [10](https://github.com/cosc-404-2021/lab10) | March 27 - 31	| Lab 10: Recovering from a Database Failure  |
 | 11 | April 3 - 7 	| Lab 11: Scaling Databases with MySQL and MongoDB |
-| 12 | April 10 - 13 	| ** No Lab during Last Week of Class ** |
+|  | April 10 - 13 	| **No Lab during Last Week of Class** |
 
 
 
