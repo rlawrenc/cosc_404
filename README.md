@@ -4,13 +4,14 @@
 Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Live Classroom Schedule:** Tuesday/Thursday, 8:00 a.m. - 9:30 a.m.<br>
 **Mode of Delivery:** LIB 317 and live-stream on Zoom<br>
-**Office Hours:**	Wednesdays 2 to 4 p.m. or by an appointment<br>
+**Office Hours:**	Thursdays 2 to 4 p.m. or by an appointment<br>
 **Office Location:** ASC 349<br>
 **Calendar Course Description, from the UBCO Calendar:** http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC
 
 ## TAs
-David Ding - Zoom virtual hours Thursday 2 to 4 p.m.<br>
+TBD <!-- David Ding - Zoom virtual hours Thursday 2 to 4 p.m.<br>
 Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
+-->
 
 ## Course Description
 **Official Calendar:** Fundamental concepts in constructing database systems including file organizations, storage management, system architectures, query processing/optimization, transaction management, recovery, and concurrency control. Additional topics may include distributed databases, mobile databases, and integration. 
@@ -33,7 +34,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 |------|-----------|-------------|
 | Quizzes and Exercises | 10% | Online and during class time activities |
 | Assignments | 25% | Weekly assignments |
-| Midterm #1 | 15% |February 18th in class | 
+| Midterm #1 | 15% | February 18th in class | 
 | Midterm #2 | 15% | March 18th in class | 
 | Final Exam | 35% | Cumulative, two and half hours, **April 22 at 12 p.m. in ASC 140** |
 
@@ -47,7 +48,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 | Project | 15% | Research paper and presentation |
 | Midterm #1 | 15% | February 18th in class | 
 | Midterm #2 | 15% | March 18th in class | 
-| Final Exam | 35% | Cumulative, two and half hours, **April 22 at 12 p.m. in ASC 140** |
+| Final Exam | 35% | Cumulative, two and half hours |
 
 ## Textbook and Reference Material
  - All notes are online.
@@ -66,51 +67,53 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 
 |   Date | Topic  | 
 |------------|------|
-| January&nbsp;12&nbsp;(W) 	| [First day of classes.  Introduction to course.  Database architecture.](topics/1_introduction) | 
-| January 14&nbsp;(F)	| [Storage I: Accessing/Representing Data on Devices (SSD,RAID) using Records/Blocks](topics/2_storage) | 
-| January 19 (W)	| [Storage II: File operations, buffer management, column vs row storage](topics/2_storage) | 
-| January 21 (F)	| [Indexing I: Index Types, Primary Indexes, Multi-level Indexes, Secondary Indexes](topics/3_indexing) | 
-| January 26 (W)	| [Indexing II: B-Trees (insertion, deletion), B+-Trees](topics/4_btrees) | 
-| January 28 (F)	| [Indexing III: B+-Trees, R-Trees](topics/5_rtrees) | 
-| February 2 (W)	| [Indexing IV: Hash Indexes](topics/6_hashing), [SQL Indexing in Practice](topics/7_sql_indexing) | 
-| February 4 (F)	| [Query processing I: SQL/RA Review, Types of Operators, Iterators, One-pass Algorithms](topics/8_query_processing) | 
-| February 9 (W)	| [Query processing II: Nested-Loop Joins, External Sorting, Two-Pass Sorting Algorithms, Sort-Join, Sort-Merge-Join](topics/8_query_processing) | 
-| February 11 (F)	| [Query processing III: Hash Partitioning, Two-Pass Hash Algorithms, Hybrid Hash Join](topics/8_query_processing) | 
-| February 16 (W)	| [Query optimization I: Query Parsing/Translation, Relational Algebra Laws](topics/9_query_optimization) | 
-| February 18 (F)	| **Midterm exam #1** | 
-| February&nbsp;23&nbsp;(W)	| No classes during Midterm Break. | 
-| February 25 (F)	| No classes during Midterm Break. | 
-| March 2 (W) 		| [Query optimization II: Heuristic Optimization, Physical Query Plans](topics/9_query_optimization)  | 
-| March 4 (F) 		| [Query optimization III: Cost-based Query Optimization](topics/9_query_optimization) | 
-| March 9 (W) 		| [Transaction processing I: ACID Properties, Schedules, Conflict Serializability](topics/10_transactions) | 
-| March 11 (F)		| [Transaction processing II: View Serializability, Schedule Properties](topics/10_transactions) | 
-| March 16 (W)		| [Concurrency control I: Two-Phase Locking (2PL), Multiple Granularity Locking, Deadlock Handling, Wait-for Graphs](topics/11_concurrency) | 
-| March 18 (F)		| **Midterm exam #2** | 
-| March 23 (W)		| [Concurrency control II: Timestamp Protocols, Validation Protocols, Multi-versioning, Snapshot isolation](topics/11_concurrency) | 
-| March 25 (F)		| [Concurrency control III: SQL Isolation Levels, Phantom Phenomenon, CC in systems](topics/11_concurrency) | 
-| March 30 (W)		| [Recovery: Types of Failures, Log-Based Recovery, Undo/Redo Logging](topics/12_recovery) | 
-| April 1 (F)		| [Distribution I: Architectures, Semi-joins, Two-Phase Commit](topics/13_distribution) | 
-| April 6 (W)		| [Distribution II: Fragmentation, Partitioning](topics/13_distribution) | 
-| April 8 (F)		| [Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory](topics/14_architectures) | 
-
+| January&nbsp;10&nbsp;(T) 	| [First day of classes.  Introduction to course.  Database architecture.](topics/1_introduction) | 
+| January 12&nbsp;(TH)	| [Storage I: Accessing/Representing Data on Devices (SSD,RAID) using Records/Blocks](topics/2_storage) | 
+| January 17 (T)	| [Storage II: File operations, buffer management, column vs row storage](topics/2_storage) | 
+| January 19 (TH)	| [Indexing I: Index Types, Primary Indexes, Multi-level Indexes, Secondary Indexes](topics/3_indexing) | 
+| January 24 (T)	| [Indexing II: B-Trees (insertion, deletion), B+-Trees](topics/4_btrees) | 
+| January 26 (TH)	| [Indexing III: B+-Trees, R-Trees](topics/5_rtrees) | 
+| January 31 (T)	| [Indexing IV: Hash Indexes](topics/6_hashing), [SQL Indexing in Practice](topics/7_sql_indexing) | 
+| February 2 (TH)	| [Query processing I: SQL/RA Review, Types of Operators, Iterators, One-pass Algorithms](topics/8_query_processing) | 
+| February 7 (T)	| [Query processing II: Nested-Loop Joins, External Sorting, Two-Pass Sorting Algorithms, Sort-Join, Sort-Merge-Join](topics/8_query_processing) | 
+| February 9 (TH)	| [Query processing III: Hash Partitioning, Two-Pass Hash Algorithms, Hybrid Hash Join](topics/8_query_processing) | 
+| February 14 (T)	| [Query optimization I: Query Parsing/Translation, Relational Algebra Laws](topics/9_query_optimization) | 
+| February 16 (TH)	| **Midterm exam #1** | 
+| February&nbsp;21&nbsp;(W)	| No classes during Midterm Break. | 
+| February 23 (F)	| No classes during Midterm Break. | 
+| March 2 (TH) 		| [Query optimization II: Heuristic Optimization, Physical Query Plans](topics/9_query_optimization)  | 
+| March 7 (T) 		| [Query optimization III: Cost-based Query Optimization](topics/9_query_optimization) | 
+| March 9 (TH) 		| [Transaction processing I: ACID Properties, Schedules, Conflict Serializability](topics/10_transactions) | 
+| March 14 (T)		| [Transaction processing II: View Serializability, Schedule Properties](topics/10_transactions) | 
+| March 16 (TH)		| [Concurrency control I: Two-Phase Locking (2PL), Multiple Granularity Locking, Deadlock Handling, Wait-for Graphs](topics/11_concurrency) | 
+| March 21 (T)		| **Midterm exam #2** | 
+| March 23 (TH)		| [Concurrency control II: Timestamp Protocols, Validation Protocols, Multi-versioning, Snapshot isolation](topics/11_concurrency) | 
+| March 28 (T)		| [Concurrency control III: SQL Isolation Levels, Phantom Phenomenon, CC in systems](topics/11_concurrency) | 
+| March 30 (TH)		| [Recovery: Types of Failures, Log-Based Recovery, Undo/Redo Logging](topics/12_recovery) | 
+| April 4 (T)		| [Distribution I: Architectures, Semi-joins, Two-Phase Commit](topics/13_distribution) | 
+| April 6 (TH)		| [Distribution II: Fragmentation, Partitioning](topics/13_distribution) | 
+| April 11 (T)		| [Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory](topics/14_architectures) | 
+| April 13 (TH)		| Course Review | 
 
 ## Labs
 
 |  Lab  |  Date  |  Topic  |
 |----|------|-------|
-|  		 | January 10 - 14 	| **No Lab during First Week of Class** |
-| [1](https://github.com/cosc-404-2021/lab1) | January 17 - 21 	| Lab 1: MySQL vs. PostgreSQL – Creating and Querying Data |
-| [2](https://github.com/cosc-404-2021/lab2) | January 24 - 28 	| Lab 2: MySQL vs. PostgreSQL – Indexing for Performance |
-| [3](https://github.com/cosc-404-2021/lab3) | Jan. 31 - Feb. 4 	| Lab 3: Implementing a Text Database and JDBC Driver |
-| [4](https://github.com/cosc-404-2021/lab4) | February 7 - 11 	| Lab 4: Query Processing with Iterators |
-| [5](https://github.com/cosc-404-2021/lab5) | February 14 - 18 	| Lab 5: Query Parsing with JavaCC |
-|  		 | February 21 - 25 	| Midterm Break — No Labs |
-| [6](https://github.com/cosc-404-2021/lab6) | Feb. 28 - Mar. 4 	| Lab 6: Storing JSON Documents: MongoDB and PostgreSQL |
-| [7](https://github.com/cosc-404-2021/lab7) | March 7 - 11 	| Lab 7: Map-Reduce using MongoDB |
-| [8](https://github.com/cosc-404-2021/lab8) | March 14 - 18 	| Lab 8: Transactions with Microsoft SQL Server |
-| [9](https://github.com/cosc-404-2021/lab9) | March 21 - 25 	| Lab 9: Cloud Data Analysis with Snowflake |
-| [10](https://github.com/cosc-404-2021/lab10) | March 28 - Apr. 1 	| Lab 10: Recovering from a Database Failure  |
-| 11 | April 4 - 8 	| ~~Lab 11: Scaling Databases with MySQL and MongoDB~~ (**Cancelled**) |
+|  		 | January 9 - 13 	| **No Lab during First Week of Class** |
+| [1](https://github.com/cosc-404-2021/lab1) | January 16 - 20 	| Lab 1: MySQL vs. PostgreSQL – Creating and Querying Data |
+| [2](https://github.com/cosc-404-2021/lab2) | January 23 - 27 	| Lab 2: MySQL vs. PostgreSQL – Indexing for Performance |
+| [3](https://github.com/cosc-404-2021/lab3) | Jan. 30 - Feb. 3 | Lab 3: Implementing a Text Database and JDBC Driver |
+| [4](https://github.com/cosc-404-2021/lab4) | February 6 - 10 	| Lab 4: Query Processing with Iterators |
+| [5](https://github.com/cosc-404-2021/lab5) | February 13 - 17 | Lab 5: Query Parsing with JavaCC |
+|  		 | February 20 - 24 	| Midterm Break — No Labs |
+| [6](https://github.com/cosc-404-2021/lab6) | Feb. 27 - Mar. 3 | Lab 6: Storing JSON Documents: MongoDB and PostgreSQL |
+| [7](https://github.com/cosc-404-2021/lab7) | March 6 - 10 	| Lab 7: Map-Reduce using MongoDB |
+| [8](https://github.com/cosc-404-2021/lab8) | March 13 - 17 	| Lab 8: Transactions with Microsoft SQL Server |
+| [9](https://github.com/cosc-404-2021/lab9) | March 20 - 24 	| Lab 9: Cloud Data Analysis with Snowflake |
+| [10](https://github.com/cosc-404-2021/lab10) | March 27 - 31	| Lab 10: Recovering from a Database Failure  |
+| 11 | April 3 - 7 	| Lab 11: Scaling Databases with MySQL and MongoDB |
+| 12 | April 10 - 13 	| ** No Lab during Last Week of Class ** |
+
 
 
 ## Potential Restrictions to International Students’ Online Learning Experiences
@@ -121,7 +124,7 @@ Faculties, departments, and schools reserve the right to scale grades in order t
 http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,41,90,1014
 
 ## Final Examinations
-The Final Exam period is April 14-29, 2022.  Except in the case of examination clashes and hardships (three or more formal examinations scheduled within a 24-hour period) or unforeseen events, students will be permitted to apply for out-of-time final examinations only if they are representing the University, the province, or the country in a competition or performance; serving in the Canadian military; observing a religious rite; working to support themselves or their family; or caring for a family member.  Unforeseen events include (but may not be limited to) the following: ill health or other personal challenges that arise during a term and changes in the requirements of an ongoing job.  
+The Final Exam period is April 17-28, 2023.  Except in the case of examination clashes and hardships (three or more formal examinations scheduled within a 24-hour period) or unforeseen events, students will be permitted to apply for out-of-time final examinations only if they are representing the University, the province, or the country in a competition or performance; serving in the Canadian military; observing a religious rite; working to support themselves or their family; or caring for a family member.  Unforeseen events include (but may not be limited to) the following: ill health or other personal challenges that arise during a term and changes in the requirements of an ongoing job.  
 Further information on Academic Concession can be found under Policies and Regulation in the Okanagan Academic Calendar http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0
 
 ## Missing an Exam
