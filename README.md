@@ -34,8 +34,8 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 |------|-----------|-------------|
 | Quizzes and Exercises | 10% | Online and during class time activities |
 | Assignments | 25% | Weekly assignments |
-| Midterm #1 | 15% | February 18th in class | 
-| Midterm #2 | 15% | March 18th in class | 
+| Midterm #1 | 15% | February 28th in class | 
+| Midterm #2 | 15% | March 21st in class | 
 | Final Exam | 35% | Cumulative, two and half hours |
 
 **A student must receive a combined grade of at least 50% on the exams (midterms and final) to pass the course.  Otherwise, the student receives a maximum overall grade of 45.**
@@ -46,8 +46,8 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 | Quizzes and Exercises | 5% | Online and during class time activities |
 | Assignments | 15% | Weekly assignments |
 | Project | 15% | Research paper and presentation |
-| Midterm #1 | 15% | February 18th in class | 
-| Midterm #2 | 15% | March 18th in class | 
+| Midterm #1 | 15% | February 28th in class | 
+| Midterm #2 | 15% | March 21st in class | 
 | Final Exam | 35% | Cumulative, two and half hours |
 
 ## Textbook and Reference Material
