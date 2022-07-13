@@ -20,7 +20,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 **Specific description:** This course provides an in-depth study of various approaches and techniques to data management including relational (SQL) databases, NoSQL systems, and techniques for indexing, query processing, and concurrency. Students completing the course will have experience in a wide variety of commercial systems (MySQL, PostgreSQL, MongoDB, Microsoft SQL Server, Snowflake) and the fundamental knowledge of data processing to make key decisions on selecting and optimizing data architectures and systems.
 
 ## Course Objectives
-**Course Format:** Interactive online classes consisting of topic introduction, understanding evaluation using quick questions, and concept mastery with larger exercises.  Practical skills and applications of topics covered in assignments as well as practice using industrial database systems and software.
+**Course Format:** Interactive classes consisting of topic introduction, understanding evaluation using quick questions, and concept mastery with larger exercises.  Practical skills and applications of topics covered in assignments as well as practice using industrial database systems and software.
 
 **Learning Outcomes:**
  - Experience using and developing on many different SQL and NoSQL databases.
