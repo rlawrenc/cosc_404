@@ -23,7 +23,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 **Course Format:** Interactive classes consisting of topic introduction, understanding evaluation using quick questions, and concept mastery with larger exercises.  Practical skills and applications of topics covered in assignments as well as practice using industrial database systems and software.
 
 **Learning Outcomes:**
- - Experience using and developing on many different SQL and NoSQL databases.
+ - Experience using and developing programs that access many different SQL and NoSQL databases.
  - Proficiency in manipulating data in memory and storage and using index structures for improved performance. 
  - Understanding of query processing including parsing, translation, optimization, and execution.
  - Applying principles of transactions, concurrency, recovery, and distribution for databases.
