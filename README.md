@@ -23,11 +23,13 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
 **Course Format:** Interactive classes consisting of topic introduction, understanding evaluation using quick questions, and concept mastery with larger exercises.  Practical skills and applications of topics covered in assignments as well as practice using industrial database systems and software.
 
 **Learning Outcomes:**
- - Experience using and developing programs that access many different SQL and NoSQL databases.
- - Proficiency in manipulating data in memory and storage and using index structures for improved performance. 
- - Understanding of query processing including parsing, translation, optimization, and execution.
+ - Develop programs that access many different SQL and NoSQL databases and implement key database features such as data storage, query parsing/processing, and execution of database query operators.
+ - Evaluate different storage designs and index techniques (e.g. B-trees, hashing) to maximize efficiency for specific hardware and application use cases.
+ - Analyze the efficiency of SQL queries based on how the database performs query parsing, translation, and optimization to produce a query execution plan of relational operators.
+ - Explain how databases implement transactions and apply precedence graphs to verify conflict serializability. 
  - Applying principles of transactions, concurrency, recovery, and distribution for databases.
- - Using knowledge of database techniques to be better users with the ability to use different database systems, compare their properties, and adapt database techniques when developing software.
+ - Compare and contrast implementing concurrency control using locking versus timestamp protocols.
+ - Utilize knowledge of how databases are developed to be better users with the ability to use different database systems, compare their properties, and adapt database techniques when developing software.
 
 ## Marking and Evaluation
 | Item | Weighting | Description |
