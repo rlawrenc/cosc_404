@@ -29,7 +29,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
  - Explain how databases implement transactions, and apply precedence graphs to verify conflict serializability of transactions. 
  - Compare and contrast implementing concurrency control using locking versus timestamp protocols.
  - Utilize knowledge of how databases are developed to be better users with the ability to use different database systems, compare their properties, and adapt database techniques when developing software.
-<!-- Recovery and distribution -- >
+<!-- Recovery and distribution -->
 
 ## Marking and Evaluation
 | Item | Weighting | Description |
