@@ -58,7 +58,7 @@ Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
  - The course uses iClicker Cloud (free). [Setup instructions for iClicker Cloud Student Account](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/). [iClicker Cloud Login](http://app.reef-education.com/)
 
 ## Expectations
- - Attend all classes and prepare before attending class. **Course allows online completion for students learning remotely.**
+ - Attend all classes and prepare before attending class. <!-- **Course allows online completion for students learning remotely.**-->
  - Review the material before the class time. **Expect to spend about five hours per week in out-of-class preparation.**
  - Learn the material in the course by completing all assignments. **No late assignments are accepted.**
  - Enjoy attending class activities and participate according to your personality.  Ask questions by posting on chat or raising your hand.
