@@ -36,6 +36,6 @@ Install Docker desktop on your machine that will allow for creating containers f
 ## Starting an Assignment
 
 1) The assignment in Canvas provides a link to GitHub classroom. Click on that link and accept the project. This will create a repository. For group projects, the first person accepts the project and the other group members join an existing project.
-2) Clone the repository onto your machine. Example: `git clone https://github.com/cosc-404-2021/lab1`
-3) In a terminal window, start any Docker containers with the command: `docker-compose up`
+2) Clone the repository onto your machine. Example: `git clone https://github.com/cosc-404-2022/lab1`
+3) In a terminal window, start any Docker containers with the command: `docker-compose up -d`
 4) Close containers using `docker-compose down` or using `Ctrl+C` in Docker container terminal window.
