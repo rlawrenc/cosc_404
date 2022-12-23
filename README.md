@@ -225,4 +225,4 @@ For more information:  [https://security.ok.ubc.ca/safewalk](https://security.ok
 * [Berkeley DB Course CS186 (videos accessible)](https://cs186berkeley.net/)
 * [Berkeley Graduate DB Course CS286](https://cs286berkeley.net/#)
 * [Harvard Graduate DB Course CS165](http://daslab.seas.harvard.edu/classes/cs165/)
-* [MIT Graduate DB Course](http://dsg.csail.mit.edu/6.830/sched.php)
+<!-- * [MIT Graduate DB Course](http://dsg.csail.mit.edu/6.830/sched.php) -->
