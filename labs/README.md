@@ -30,11 +30,11 @@ The labs use Java, Docker, and GitHub. Follow the [setup and installation instru
 ## Drop-in Session Hours
 | Day/Time |  TA/Instructor |
 |----------|----------------|
-| Mon. 1 to 3 p.m. | TBD |
-| Tues. 10 a.m. to 12 p.m. | TBD |
-| Wed. 2 to 4 p.m. | TBD |
+| Mon. 2 to 4 p.m. | Omar Abdelaziz |
+| Tues. 2 p.m. to 4 p.m. | Devon MacNeil |
+| Wed. 2 to 4 p.m. | Omar Abdelaziz |
 | Thurs. 2 to 4 p.m. | Dr. Ramon Lawrence |
-| Fri. 2 to 4 p.m. | TBD |
+| Fri. 2 to 4 p.m. | Devon MacNeil |
 
 ## Submission Guidelines for Assignments
 
