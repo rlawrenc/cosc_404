@@ -9,9 +9,9 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Calendar Course Description, from the UBCO Calendar:** http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC
 
 ## TAs
-TBD <!-- David Ding - Zoom virtual hours Thursday 2 to 4 p.m.<br>
-Devon MacNeil - Zoom virtual hours Friday 2 to 4 p.m.
--->
+Omar Abdelaziz - Zoom virtual hours Monday 2 to 4 p.m., Wednesday 2 to 4 p.m.<br>
+Devon MacNeil - Zoom virtual hours Tuesday 2 to 4 p.m., Friday 2 to 4 p.m.
+
 
 ## Course Description
 **Official Calendar:** Fundamental concepts in constructing database systems including file organizations, storage management, system architectures, query processing/optimization, transaction management, recovery, and concurrency control. Additional topics may include distributed databases, mobile databases, and integration. 
