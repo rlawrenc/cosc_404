@@ -27,7 +27,7 @@ Devon MacNeil - Zoom virtual hours Tuesday 2 to 4 p.m., Friday 2 to 4 p.m.
  - Evaluate different storage designs and index techniques (e.g. B-trees, hashing) to maximize efficiency for specific hardware and application use cases.
  - Analyze the efficiency of SQL queries based on how the database performs query parsing, translation, and optimization to produce a query execution plan of relational operators.
  - Explain how databases implement transactions, and apply precedence graphs to verify conflict serializability of transactions. 
- - Compare and contrast implementing concurrency control using locking versus timestamp protocols.
+ - Compare and contrast implementing concurrency control using locking versus timestamp and multi-version protocols.
  - Utilize knowledge of how databases are developed to be better users with the ability to use different database systems, compare their properties, and adapt database techniques when developing software.
 <!-- Recovery and distribution -->
 
