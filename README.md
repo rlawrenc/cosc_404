@@ -16,6 +16,8 @@ For support, create a ticket on HelpMe system at: https://help.cosc304.ok.ubc.ca
 
 User id: **your student number**  Password: **your student number**
 
+The HelpMe system is being evaluated as part of UBC research study H22-03323. Students must consent for the information collected to be used in this research. Review the [consent form](Consent_Form.pdf). Consent can be given by providing it in the HelpMe application.
+
 ## Course Description
 **Official Calendar:** Fundamental concepts in constructing database systems including file organizations, storage management, system architectures, query processing/optimization, transaction management, recovery, and concurrency control. Additional topics may include distributed databases, mobile databases, and integration. 
 **Prerequisite:** COSC 304 and third-year standing.
