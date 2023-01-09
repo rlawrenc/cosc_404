@@ -143,7 +143,7 @@ toward the instructor, a student in the class, or about other individuals or gro
 ## Academic Integrity
 The academic enterprise is founded on honesty, civility, and integrity.  As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity.  At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required.  This also means you should not cheat, copy, or mislead others about what is your work.  Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed.  For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or exam and more serious consequences may apply if the matter is referred to the President’s Advisory Committee on Student Discipline.  Careful records are kept in order to monitor and prevent recurrences. 
 A more detailed description of academic integrity, including the University’s policies and procedures, may be found in the Academic Calendar at:  http://okanagan.students.ubc.ca/calendar/index.cfm?tree=3,54,111,0.
-  If you have any questions about how academic integrity applies to this course, please consult with your professor.
+  If you have any questions about how academic integrity applies to this course, please consult with your professor. The use of artificial intelligence (AI) assistance for any assessed portions of this course is not permitted.
 
 
 ## Academic Integrity Course Policies
