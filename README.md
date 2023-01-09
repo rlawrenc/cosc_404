@@ -12,6 +12,9 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 Omar Abdelaziz - Zoom virtual hours Monday 2 to 4 p.m., Wednesday 2 to 4 p.m.<br>
 Devon MacNeil - Zoom virtual hours Tuesday 2 to 4 p.m., Friday 2 to 4 p.m.
 
+For support, create a ticket on HelpMe system at: https://help.cosc304.ok.ubc.ca/
+
+User id: **your student number**  Password: **your student number**
 
 ## Course Description
 **Official Calendar:** Fundamental concepts in constructing database systems including file organizations, storage management, system architectures, query processing/optimization, transaction management, recovery, and concurrency control. Additional topics may include distributed databases, mobile databases, and integration. 
