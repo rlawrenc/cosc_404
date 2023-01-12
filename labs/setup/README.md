@@ -1,7 +1,7 @@
 # COSC 404 Lab Setup
 
 For COSC 404, the following must be installed on your machine:
- - JDK - JDK 17 is recommended
+ - JDK - JDK 19 is recommended
  - Docker Desktop
  - VSCode
 
@@ -9,11 +9,11 @@ Each lab uses the Java programming language and will create databases and other 
 
 ## Installing a JDK
 
-A JDK of version 11 or above is required with JDK 17 recommended.
+A JDK of version 11 or above is required with JDK 19 recommended.
 
 ### Steps
 
-1) [Download OpenJDK](https://jdk.java.net/17/)
+1) [Download OpenJDK](https://jdk.java.net/19/)
 2) Unzip folder and setup environment variables. ([Windows instructions](https://java.tutorials24x7.com/blog/how-to-install-openjdk-17-on-windows), [MacOS instructions](https://java.tutorials24x7.com/blog/how-to-install-openjdk-17-on-mac))
 
 ## Installing VSCode
