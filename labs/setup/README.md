@@ -13,7 +13,7 @@ A JDK of version 11 or above is required with JDK 19 recommended.
 
 ### Steps
 
-1) [Download OpenJDK](https://jdk.java.net/19/)
+1) [Download OpenJDK](https://jdk.java.net/19/). If you are on a Mac with M1 chip, download version `macOS/AArch64`.	
 2) Unzip folder and setup environment variables. ([Windows instructions](https://java.tutorials24x7.com/blog/how-to-install-openjdk-17-on-windows), [MacOS instructions](https://java.tutorials24x7.com/blog/how-to-install-openjdk-17-on-mac))
 
 ## Installing VSCode
@@ -36,6 +36,6 @@ Install Docker desktop on your machine that will allow for creating containers f
 ## Starting an Assignment
 
 1) The assignment in Canvas provides a link to GitHub classroom. Click on that link and accept the project. This will create a repository. For group projects, the first person accepts the project and the other group members join an existing project.
-2) Clone the repository onto your machine. Example: `git clone https://github.com/cosc-404-2022/lab1`
+2) Clone the repository onto your machine. Example: `git clone https://github.com/cosc-404-2022/your-lab1-repo`
 3) In a terminal window, start any Docker containers with the command: `docker-compose up -d`
 4) Close containers using `docker-compose down` or using `Ctrl+C` in Docker container terminal window.
