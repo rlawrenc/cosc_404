@@ -4,6 +4,13 @@ All labs are done outside of scheduled class time. Assistance is available from 
 
 **All labs must be done in pairs.** No collaboration outside a group is allowed. The group must be setup on Canvas and each lab started through GitHub Classroom. **GitHub Classroom links for each assignment are in Canvas.** Only one submission per group is accepted. 
 
+Labs may be marked before the deadline in any virtual office hours. Steps:
+- Submit GitHub repository URL on Canvas.
+- Push changes to GitHub repository. **Add a screenshot of your tests passing to your GitHub repository.**
+- Join HelpMe queue during office hours (https://help.cosc304.ok.ubc.ca). Create a question and select the lab you want marked.
+- Join Zoom (or in-person office hours).  Your lab will be marked by running the tests and reviewing the code. Make sure your code is ready to go when it is your turn.
+- Mark will be recorded on Canvas immediately. 10% bonus if lab marked before Monday 4 p.m. the week it is due. 5% bonus if marked before Wednesday 4 p.m. the week it is due.
+
 ### Setup
 
 The labs use Java, Docker, and GitHub. Follow the [setup and installation instructions](https://github.com/rlawrenc/cosc_404/tree/main/labs/setup) to get your computer setup for the labs.
@@ -39,4 +46,4 @@ The labs use Java, Docker, and GitHub. Follow the [setup and installation instru
 ## Submission Guidelines for Assignments
 
 ### Assignment Submission Rules
-All assignments will be collected and marked using Canvas unless otherwise noted. Labs are released on GitHub classroom. Make sure to commit and push your lab to GitHub and then submit the URL of your repository on Canvas.
+All assignments will be collected and marked using Canvas unless otherwise noted. Labs are released on GitHub classroom. Make sure to commit and push your lab to GitHub and then submit the URL of your repository on Canvas. **Add a screenshot of your tests passing to your GitHub repository.**
