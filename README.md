@@ -102,6 +102,7 @@ The HelpMe system is being evaluated as part of UBC research study H22-03323. St
 | April 6 (TH)		| [Distribution II: Fragmentation, Partitioning](topics/13_distribution) | 
 | April 11 (T)		| [Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory](topics/14_architectures) | 
 | April 13 (TH)		| **Course Review** | 
+| April 28 (F)		| **Final Exam. April 28 at 12 p.m. in COM 201** | 
 
 ## Labs
 
@@ -119,7 +120,7 @@ The HelpMe system is being evaluated as part of UBC research study H22-03323. St
 | [8](https://github.com/cosc-404-2022/lab8) | March 13 - 17 	| Lab 8: Transactions with Microsoft SQL Server |
 | [9](https://github.com/cosc-404-2022/lab9) | March 20 - 24 	| Lab 9: Cloud Data Analysis with Snowflake |
 | [10](https://github.com/cosc-404-2022/lab10) | March 27 - 31	| Lab 10: Recovering from a Database Failure  |
-| 11 | April 3 - 7 	| Lab 11: Scaling Databases with MySQL and MongoDB |
+| ~~11~~ | April 3 - 7 	| **No Lab** ~~Lab 11: Scaling Databases with MySQL and MongoDB~~ |
 |  | April 10 - 13 	| **No Lab during Last Week of Class** |
 
 ### Final Examinations
