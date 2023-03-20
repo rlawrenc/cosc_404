@@ -30,7 +30,7 @@ The labs use Java, Docker, and GitHub. Follow the [setup and installation instru
 | [8](https://github.com/cosc-404-2022/lab8) | March 13 - 17 	| Lab 8: Transactions with Microsoft SQL Server |
 | [9](https://github.com/cosc-404-2022/lab9) | March 20 - 24 	| Lab 9: Cloud Data Analysis with Snowflake |
 | [10](https://github.com/cosc-404-2022/lab10) | March 27 - 31	| Lab 10: Recovering from a Database Failure  |
-| 11 | April 3 - 7 	| Lab 11: Scaling Databases with MySQL and MongoDB |
+| ~~11~~ | April 3 - 7 	| **No Lab** ~~Lab 11: Scaling Databases with MySQL and MongoDB~~ |
 |  | April 10 - 13 	| **No Lab during Last Week of Class** |
 
 
