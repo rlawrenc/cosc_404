@@ -18,6 +18,8 @@ User id: **your student number**  Password: **your student number**
 
 The HelpMe system is being evaluated as part of UBC research study H22-03323. Students must consent for the information collected to be used in this research. Review the [consent form](Consent_Form.pdf). **Consent can be given by completing [this survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_6uvfwQfcHii7P4a).**
 
+**Please complete the office hours and HelpMe system survey (5 to 10 minutes). All responses are anonymous and confidential. You can complete the survey even if you did not attend office hours (just skip sections or select N/A for certain questions). Link: https://ubc.ca1.qualtrics.com/jfe/form/SV_beYgzEETRQvbLrE**
+
 ## Course Description
 **Official Calendar:** Fundamental concepts in constructing database systems including file organizations, storage management, system architectures, query processing/optimization, transaction management, recovery, and concurrency control. Additional topics may include distributed databases, mobile databases, and integration. 
 **Prerequisite:** COSC 304 and third-year standing.
