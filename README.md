@@ -102,8 +102,8 @@ The HelpMe system is being evaluated as part of UBC research study H22-03323. St
 | March 30 (TH)		| [Recovery: Types of Failures, Log-Based Recovery, Undo/Redo Logging](topics/12_recovery) | 
 | April 4 (T)		| [Distribution I: Architectures, Semi-joins, Two-Phase Commit](topics/13_distribution) | 
 | April 6 (TH)		| [Distribution II: Fragmentation, Partitioning](topics/13_distribution) | 
-| April 11 (T)		| [Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory](topics/14_architectures) | 
-| April 13 (TH)		| **Course Review** | 
+| April 11 (T)		| [Distribution III: Replication: Primary-Primary and Primary-Secondary, CAP Theorem<br>Architecture I: Comparison of database architectures: Relational, Key-Value, In-Memory](topics/14_architectures)<br>**Course Review. Discuss final exam.** | 
+| April 13 (TH)		| ~~**Course Review**~~ **No class** | 
 | April 28 (F)		| **Final Exam. April 28 at 12 p.m. in COM 201** | 
 
 ## Labs
