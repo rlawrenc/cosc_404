@@ -6,7 +6,7 @@ Dr. Ramon Lawrence, ramon.lawrence@ubc.ca, 250-807-9390<br>
 **Mode of Delivery:** LIB 317 and live-stream on Zoom<br>
 **Office Hours:**	Thursdays 2 to 4 p.m. or by an appointment<br>
 **Office Location:** ASC 349<br>
-**Calendar Course Description, from the UBCO Calendar:** http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC
+**Calendar Course Description, from the UBCO Calendar:** [http://www.calendar.ubc.ca/okanagan/courses.cfm?go=name&code=COSC](https://okanagan.calendar.ubc.ca/course-descriptions/subject/cosc)
 
 ## TAs
 Omar Abdelaziz - Zoom virtual hours Monday 2 to 4 p.m., Wednesday 2 to 4 p.m.<br>
